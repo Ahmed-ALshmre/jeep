@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702237017509",
+    "firebase_url": "https://ticeapp12121.firebaseio.com",
+    "project_id": "ticeapp12121",
+    "storage_bucket": "ticeapp12121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702237017509:android:63a09237d1d0e1d57e144c",
+        "android_client_info": {
+          "package_name": "com.example.jeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702237017509-hj0r3g6pporemo4e5adu3m9u3pep5eav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnSaUPqp3ek5C4_vv8KTHVfRNnoUS8LTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702237017509-hj0r3g6pporemo4e5adu3m9u3pep5eav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
